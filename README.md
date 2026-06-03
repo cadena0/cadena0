@@ -61,39 +61,11 @@ Full Stack Developer in training at RIWI, with hands-on experience building web 
   </tr>
 </table>
 ---
- 
-## Projects
- 
-### ORBIX — Event Center & Ticketing Platform
-`ASP.NET Core` `Laravel (PHP)` `React` `PostgreSQL` `REST API`
- 
-Web platform for managing and selling event tickets, featuring user registration, online purchase flow, and a physical point-of-sale integration. Includes role-based access control (admin / customer), real-time access validation with anti-forgery detection, and automatic ticket delivery by email and user profile.
- 
-**Key contributions:**
-- Built authentication and role management system (admin / customer) using ASP.NET Core and Laravel, ensuring secure access to each platform module
-- Implemented the ticket purchase module with automatic generation and delivery of tickets to email and user profile, supporting both online and in-person sales
-- Developed the event entry validation system that checks ticket validity, assigned seat, and owner in real time, detecting fraudulent access attempts
-- Created the admin dashboard with real-time attendance metrics: valid entries vs. rejected ticket attempts, supporting on-site security operations
-- Integrated the React frontend with ASP.NET and Laravel backend services connected to PostgreSQL, contributing across the full stack throughout the 2–3 week sprint
----
- 
-### JAXON — Inventory Management System
-`Node.js` `JavaScript` `SQL` `HTML5` `CSS3`
- 
-Enterprise web platform for managing both physical products and technological assets (computers and hardware), including a support ticket system for reporting technical faults with tracking by equipment location and department.
- 
-**Key contributions:**
-- Built the product and inventory management module using Node.js and SQL, enabling registration, updates, and queries for physical and technological assets
-- Implemented a PQRS and technical support ticket system with tracking by equipment address, facilitating identification of recurring failures and prioritization of service responses
-- Developed an inventory metrics dashboard displaying the most purchased products and equipment with the highest failure rates, supporting data-driven management decisions
-- Coordinated development within a 5-person team using Scrum methodology and Git/GitHub for version control and conflict-free collaboration
-- Contributed across the full stack — frontend (HTML5, CSS3, JavaScript), backend (Node.js), and database (SQL) — fulfilling all defined functional requirements
----
- 
+
 ## Education
  
 **Full Stack Software Development**
-RIWI · Medellín, Colombia · 2025 – Present
+RIWI · Medellín, Colombia · 2026 – Present
  
 ---
  
@@ -110,7 +82,7 @@ RIWI · Medellín, Colombia · 2025 – Present
  
 **Technical:** Full Stack Development · REST APIs · Relational Databases · Version Control · Agile / Scrum
  
-**Soft Skills:** Teamwork · Assertive Communication · Problem Solving · Leadership · Proactivity · Self-learning · Frustration Tolerance
+**Soft Skills:** Teamwork · Assertive Communication · Problem Solving · Leadership · Proactivity · Self-learning · Frustration Tolerance · adaptability
  
 ## Contribution Graph
 
