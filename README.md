@@ -1,5 +1,5 @@
 Readme · MD
-# Juan José Cadena Oyola
+# JuanJose Cadena 
 ### Junior Full Stack Developer
  
 **Medellín, Colombia** · [cadenajuanjose68@gmail.com](email:cadenajuanjose68@gmail.com) 
