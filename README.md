@@ -1,5 +1,5 @@
 Readme · MD
-# JuanJose Cadena 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hello%2C+I+Am+Juanjose+Cadena;Full+Stack+Developer+en+formacion;Python+%7C+JavaScript+%7C+C%23+%7C+React;Construyendo+el+futuro+linea+a+linea" alt="Typing SVG" />
 ### Junior Full Stack Developer
  
 **Medellín, Colombia** · [cadenajuanjose68@gmail.com](email:cadenajuanjose68@gmail.com) 
