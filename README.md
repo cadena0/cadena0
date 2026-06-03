@@ -1,12 +1,34 @@
-Readme · MD
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hello%2C+I+Am+Juanjose+Cadena;Full+Stack+Developer+en+formacion;Python+%7C+JavaScript+%7C+C%23+%7C+React;Construyendo+el+futuro+linea+a+linea" alt="Typing SVG" />
-### Junior Full Stack Developer
- 
-**Medellín, Colombia** · [cadenajuanjose68@gmail.com](email:cadenajuanjose68@gmail.com) 
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjosé--cadena-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosé-cadena)
-[![GitHub](https://img.shields.io/badge/GitHub-cadena0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cadena0)
- 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=440&lines=Hello%2C+I+Am+Juanjose+Cadena;Full+Stack+Developer+en+formacion;Python+%7C+JavaScript+%7C+C%23+%7C+React;building+the+futuro+linea+a+linea" alt="Typing SVG" />
+
+</div>
+
+---
+
+⚡ **Junior Full Stack Developer**
+
+ **Medellín, Colombia** ·  cadenajuanjose68@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjosé--cadena-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/juanjosé-cadena)
+[![GitHub](https://img.shields.io/badge/GitHub-cadena0-181717?style=flat&logo=github)](https://github.com/cadena0)
+
+---
+
+###  Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+*Construyendo el futuro línea a línea* 
 ---
  
 ## About Me
