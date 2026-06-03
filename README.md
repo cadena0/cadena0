@@ -1,21 +1,23 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c18,50:0e2d5e,100:1a4a8a&height=200&section=header&text=Juanjose%20Cadena&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=-%20Junior%20Full%20Stack%20Developer%20-%20Medellín%2C%20Colombia%20-&descAlignY=62&descSize=16&descColor=79b8ff&animation=fadeIn"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=440&lines=Hello%2C+I+Am+Juanjose+Cadena;Full+Stack+Developer+en+formacion;Python+%7C+JavaScript+%7C+C%23+%7C+React;building+the+future+line+by+line" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+in+training;Python+%7C+JavaScript+%7C+C%23+%7C+React;Building+the+future+line+by+line" alt="Typing SVG" />
 
 </div>
 
 ---
 
- **Junior Full Stack Developer**
+⚡ **Junior Full Stack Developer**
 
- **Medellín, Colombia** ·  cadenajuanjose68@gmail.com
+📍 **Medellín, Colombia** · 📧 cadenajuanjose68@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjosé--cadena-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/juanjosé-cadena)
 [![GitHub](https://img.shields.io/badge/GitHub-cadena0-181717?style=flat&logo=github)](https://github.com/cadena0)
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,7 +30,7 @@
 
 ---
 
-*Construyendo el futuro línea a línea* 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a8a,50:0e2d5e,100:020c18&height=100&section=footer"/>
 ---
  
 ## About Me
