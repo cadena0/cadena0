@@ -44,7 +44,7 @@ Full Stack Developer in training at RIWI, with hands-on experience building web 
     <td align="center" width="33%">
       <strong>Backend Development</strong><br><br>
       <img src="https://skillicons.dev/icons?i=cs,python,js,ts,nodejs,dotnet,laravel" /><br><br>
-      <sub>C#  · Python · JavaScript · TypeScript · Node.js · ASP.NET · Laravel</sub>
+      <sub>C#  · Python · JavaScript · Node.js · ASP.NET · Laravel</sub>
     </td>
     <td align="center" width="33%">
       <strong>Frontend & Databases</strong><br><br>
